@@ -1,5 +1,5 @@
 import React,{useState,useEffect} from "react"
-import "../../styles/Banner.css"
+import "../styles/Banner.css"
 
 export default function Banner(){
     let [value,setValue] = useState(0);
