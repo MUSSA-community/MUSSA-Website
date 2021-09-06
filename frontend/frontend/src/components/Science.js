@@ -1,4 +1,4 @@
-import "../../styles/Science.css"
+import "../styles/Science.css"
 export default function Science(){
     return(
         <div className="science">
